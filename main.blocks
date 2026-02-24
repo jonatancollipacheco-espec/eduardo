@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="R{{:mqnKJhem0d|n@sg-" x="-269" y="-6"></block><block type="device_forever" id="uv~.a7+CSG5H]8Fum]IS" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="9B_u|+Y.~,t:6+WIhn9I"><field name="i">IconNames.Scissors</field><next><block type="device_pause" id="b4}m{C${zHcXpJjNIW]e"><value name="pause"><shadow type="timePicker" id="6d1u=5Y#ijpkN:Actezv"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="1HqIJY,4qGa-hV^%O]-x"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        . . # # # 
+        # # . . . 
+        # # . . .
+        `</field><next><block type="device_pause" id="4vXy3t)3m-Q![7C_;jSP"><value name="pause"><shadow type="timePicker" id="mk`y3|nUL(._F5*Yuc=4"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="basic_show_icon" id="]M3$EgAd|ey*XcS.IrRV" disabled-reasons="pxt_automatic_disabled" x="-347" y="339"><field name="i">IconNames.SmallHeart</field></block></xml>
